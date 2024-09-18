@@ -9,6 +9,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -1135,7 +1136,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: transparent;
 }
 
 .contact .info i {
@@ -1181,7 +1182,7 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
+  background: transparent;
 }
 
 .contact .php-email-form .form-group {
@@ -1191,7 +1192,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #18d26e;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1208,7 +1209,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: transparent;
   text-align: center;
   padding: 15px;
 }
